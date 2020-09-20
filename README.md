@@ -1,2 +1,2 @@
-# Drop
-An Abstract Strategy Game
+# Shove
+A game about herding your opponent.
