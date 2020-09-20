@@ -1,2 +1,2 @@
 # Drop
-An Abstract Strategy Game
+A game about herding your opponent
