@@ -1,2 +1,2 @@
-# Shove
-A game about herding your opponent.
+# Drop
+A game about herding your opponent
