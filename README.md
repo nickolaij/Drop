@@ -1,6 +1,6 @@
 # Drop
-A game about herding your opponent
+A game about herding your opponent.
 
-| | |
-|-|-|
-<img src="Animation.gif" width="500">  |  Hello World
+The game rules can be found in **Drop.pdf**.
+
+<img src="Animation.gif">
