@@ -3,4 +3,4 @@ A game about herding your opponent
 
 | | |
 |-|-|
-![Squeezing](Animation.gif)  |  Hello World
+<img src="Animation.gif" width="200">  |  Hello World
