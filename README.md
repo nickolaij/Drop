@@ -1,5 +1,5 @@
 # Drop.
-A game about herding your opponent.
+A game about moving your opponent's pieces directly.
 
 The game rules can be found [here](Drop.pdf). A printable version of the board is avaliable in [Colour](PrintnPlay/ColourHexGrid.pdf) and [Grayscale](PrintnPlay/BWHexGrid.pdf).
 
